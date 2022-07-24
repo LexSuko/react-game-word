@@ -216,3 +216,15 @@ svg circle {
     stroke-dashoffset: 190px;
   }
 }
+
+@media (max-width: 480px) {
+  .main .container {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .main .container {
+    width: 90%;
+  }
+}
