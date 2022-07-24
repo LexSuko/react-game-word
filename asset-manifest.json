@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-game-word/static/css/main.383a3d80.css",
+    "main.js": "/react-game-word/static/js/main.eeb8beaf.js",
+    "index.html": "/react-game-word/index.html",
+    "main.383a3d80.css.map": "/react-game-word/static/css/main.383a3d80.css.map",
+    "main.eeb8beaf.js.map": "/react-game-word/static/js/main.eeb8beaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.383a3d80.css",
+    "static/js/main.eeb8beaf.js"
+  ]
+}
