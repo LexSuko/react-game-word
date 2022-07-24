@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-game-word/static/css/main.383a3d80.css",
-    "main.js": "/react-game-word/static/js/main.eeb8beaf.js",
+    "main.js": "/react-game-word/static/js/main.878d21f7.js",
     "index.html": "/react-game-word/index.html",
     "main.383a3d80.css.map": "/react-game-word/static/css/main.383a3d80.css.map",
-    "main.eeb8beaf.js.map": "/react-game-word/static/js/main.eeb8beaf.js.map"
+    "main.878d21f7.js.map": "/react-game-word/static/js/main.878d21f7.js.map"
   },
   "entrypoints": [
     "static/css/main.383a3d80.css",
-    "static/js/main.eeb8beaf.js"
+    "static/js/main.878d21f7.js"
   ]
 }
