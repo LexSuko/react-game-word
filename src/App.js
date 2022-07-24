@@ -127,7 +127,7 @@ function App() {
   }
 
   return (
-    <div className="App">
+    <div className="main">
       <div className="container">
         <div className="card">
           <h1>Game Word</h1>
