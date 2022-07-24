@@ -56,7 +56,9 @@ body {
   text-align: justify;
 }
 .main .container .card h1 {
-  font-size: 3rem;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
   font-display: inline-block;
   text-decoration: none;
   color: var(--clr-neon);
